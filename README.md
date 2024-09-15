@@ -26,10 +26,6 @@ I hold a Bachelor's degree in Information Systems from the **Federal University 
 - **Tools**: Power BI, Excel, Git, Docker
 - **Agile Methodologies**: Scrum
 
-## 📈 Notable Academic Project
-
-My Bachelor's thesis focused on **Absenteeism Prediction**, a comparative study of regression algorithms.
-
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/victorcezarcosta/)
