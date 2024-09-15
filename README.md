@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Victor Costa!
 
-<!--
-**VictorCezar/VictorCezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hold a Bachelor's degree in Information Systems from the **Federal University of Southern and Southeastern Pará (UNIFESSPA)** and I am currently a Master's student in **Computer Science** at the **Federal University of Pelotas (UFPel)**, focusing on **Artificial Intelligence** and **Machine Learning**. I am also a AI Researcher at the **Video Technology Research Group (ViTech)**, where I am involved in cutting-edge projects in **video technologies** and **Deep Learning**.
 
-Here are some ideas to get you started:
+## 🔬 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Science
+- AI-mediated accessibility and digital humans
+- Action research in Visual Anthropology and Assistive Technologies
+
+## 💼 Experience
+
+- **AI Researcher at ViTech**: Working on Deep Learning projects applied to video technologies.
+- **N2 Support Analyst**: Solved complex connectivity and equipment configuration issues.
+- **N1/N2 Support Intern** at the UNIFESSPA's CTIC and a private company: Two and a half years of technical support experience.
+- **Fullstack Developer**: Contributed to the development of an internal marketing management platform in university extension projects.
+
+## 🛠️ Hard Skills
+
+- **Languages**: Python, Java, Javascript (React, NodeJS), HTML/CSS
+- **Libraries and Frameworks**: NumPy, Pandas, Matplotlib, seaborn, scikit-learn, PyTorch, TensorFlow, Keras, Streamlit
+- **Databases**: SQL (PostgreSQL, MySQL) & NoSQL (MongoDB)
+- **Tools**: Power BI, Excel, Git, Docker
+- **Agile Methodologies**: Scrum
+
+## 📈 Notable Academic Project
+
+My Bachelor's thesis focused on **Absenteeism Prediction**, a comparative study of regression algorithms.
+
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/victorcezarcosta/)
+- [Email](mailto:victorceza31@gmail.com)
